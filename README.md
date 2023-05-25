@@ -1,7 +1,7 @@
 <h1 align="center">Senior Full-Stack Engineer</h1>
 
-<a target="blank" href="https://profile-counter.glitch.me/ever-dev/count.svg">
-  
+<a target="#" href="https://profile-counter.glitch.me/ever-dev/count.svg">
+
 <div align="center">
 
 [![MacOS](https://img.shields.io/badge/MacOS-ea580c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
@@ -29,6 +29,8 @@
 [![Angular](https://img.shields.io/badge/-Angular-65a30d?style=flat-square&logo=angular&logoColor=white)](https://angular.io)
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ever-dev&theme=calm&exclude_repo=Symfony-4-by-Samples)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ever-dev&theme=calm&exclude_repo=Symfony-4-by-Samples)      [![EverDev StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11728457&theme=dark)](https://stackoverflow.com/users/11728457/ever-dev)
 
-[![EverDev StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11728457)](https://stackoverflow.com/users/11728457/ever-dev)
+[![NPM library boiler plate](https://github-readme-stats.vercel.app/api/pin/?username=ever-dev&repo=npm-library-boilerplate)](https://github.com/ever-dev/npm-library-boilerplate)
+[![React component library boiler plate](https://github-readme-stats.vercel.app/api/pin/?username=ever-dev&repo=react-component-library-boilerplate)](https://github.com/ever-dev/react-component-library-boilerplate)
+[![React Native component library boiler plate](https://github-readme-stats.vercel.app/api/pin/?username=ever-dev&repo=react-native-component-library-boilerplate)](https://github.com/ever-dev/react-native-component-library-boilerplate)
