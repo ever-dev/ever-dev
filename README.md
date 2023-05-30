@@ -17,7 +17,7 @@ I am dedicated to delivering high-quality results and thrive in dynamic and chal
 </p>
 
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ever-dev&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ever-dev&langs_count=20&layout=compact&theme=tokyonight&line_height=27">
 </p>
 
 <div align="center">
