@@ -5,7 +5,7 @@
 
 <h2 align="center">Who am I<img src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif" width="25">?</h2>
 <p>
-A seasoned full-stack engineer with extensive hands-on experience in architecting and developing scalable web, mobile, and blockchain applications. I possess a proactive nature and a deep commitment to taking initiative and fostering collaboration within teams.
+A seasoned full-stack engineer with extensive hands-on experience architecting and developing scalable web, mobile, and blockchain applications. I possess a proactive nature and a deep commitment to taking the initiative and fostering team collaboration.
 
 My professional journey has been fueled by a relentless passion for acquiring new technological proficiencies. I approach each opportunity with a strong desire to expand my knowledge and skills, ensuring that I stay at the forefront of emerging technologies and industry trends.
 
@@ -13,7 +13,7 @@ I am dedicated to delivering high-quality results and thrive in dynamic and chal
 
 <h3>🏆 Github Trophies</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ever-dev&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=aashutoshrathi&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 
 <p align="center">
